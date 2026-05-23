@@ -1,0 +1,17 @@
+{
+  "name": "MotoCobrança",
+  "short_name": "MotoCobrança",
+  "start_url": "./mototaxi-app.html",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#f5a623",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/713/713311.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
